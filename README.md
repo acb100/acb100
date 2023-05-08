@@ -2,7 +2,6 @@
 - 👀 I’m interested in music, making new instruments (software)
 - 🌱 I’m currently learning java, HTML, SQL and CSS studying computer science.
 - 💞️ I’m looking to collaborate on various music related projects.
-- 📫 How to reach me: instagram@anrscph
 
 <!---
 acb100/acb100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
